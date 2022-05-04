@@ -1,0 +1,2 @@
+com/example/android/basicweather/BuildConfig.java
+ com.example.android.basicweather.BuildConfig
